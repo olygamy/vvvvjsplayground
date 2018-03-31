@@ -1,0 +1,25 @@
+<html>
+<head>
+  <title>VVVV.js Template</title>
+  <link rel="stylesheet" type="text/css" href="vvvv_js/vvvviewer/vvvv.css"/>
+  <script language="JavaScript" src="vvvv_js/lib/require.js"></script>
+  <script language="JavaScript" src="vvvv_js/vvvv.js"></script>
+  <link rel="VVVV" href="main.v4p"/>
+  <script language="JavaScript">
+    VVVVContext.init("/vvvv_js/", 'full', function() {
+      console.log('VVVV.js initialized');
+    });
+  </script>
+
+
+
+  <style>
+    body{font-family:"Lucida Sans", sans-serif; color:#333; background:#CCC}
+  </style>
+</head>
+<body>
+
+<canvas id="renderer" width="500" height="500"></canvas>
+
+</body>
+</html>
