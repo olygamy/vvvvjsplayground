@@ -1,3 +1,9 @@
+
+========================================================================================================================================
+//////// PLEASE NOTE - the BELOW AND THE WHOLE OF VVVV_JS FOLDER IS FROM https://github.com/zauner/vvvv.js - WHICH IS VVVV.JS AND ITS INSTALLATION ///////
+========================================================================================================================================
+
+
 ** NOTICE: THIS IS THE INSTABLE MASTER. Existing documentation on http://vvvvjs.com is refering to the v1.0 tag, and might differ from this version.**
 
 VVVV.js - Visual Web Client Programming
